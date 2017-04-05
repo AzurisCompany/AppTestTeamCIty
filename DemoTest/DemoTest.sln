@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTest", "DemoTest\DemoTest.csproj", "{8F2DE165-5DD2-472F-83E6-CD25EE844789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLib", "CoreLib\CoreLib.csproj", "{A334AFAD-9817-4F26-981E-C3C70CFC8505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibTest", "CoreLibTest\CoreLibTest.csproj", "{D2DBA42F-5BE5-43DA-97F9-89A08DFC56EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2DE165-5DD2-472F-83E6-CD25EE844789}.Debug|x86.ActiveCfg = Debug|x86
+		{8F2DE165-5DD2-472F-83E6-CD25EE844789}.Debug|x86.Build.0 = Debug|x86
+		{8F2DE165-5DD2-472F-83E6-CD25EE844789}.Release|x86.ActiveCfg = Release|x86
+		{8F2DE165-5DD2-472F-83E6-CD25EE844789}.Release|x86.Build.0 = Release|x86
+		{A334AFAD-9817-4F26-981E-C3C70CFC8505}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A334AFAD-9817-4F26-981E-C3C70CFC8505}.Debug|x86.Build.0 = Debug|Any CPU
+		{A334AFAD-9817-4F26-981E-C3C70CFC8505}.Release|x86.ActiveCfg = Release|Any CPU
+		{A334AFAD-9817-4F26-981E-C3C70CFC8505}.Release|x86.Build.0 = Release|Any CPU
+		{D2DBA42F-5BE5-43DA-97F9-89A08DFC56EA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2DBA42F-5BE5-43DA-97F9-89A08DFC56EA}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2DBA42F-5BE5-43DA-97F9-89A08DFC56EA}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2DBA42F-5BE5-43DA-97F9-89A08DFC56EA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
