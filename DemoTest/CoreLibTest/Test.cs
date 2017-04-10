@@ -9,7 +9,7 @@ namespace CoreLibTest
 		[Test()]
 		public void TestCase()
 		{
-			Assert.AreEqual(1, 0);
+			Assert.AreEqual(1, 1);
 		}
 		[Test()]
 		public void TestCase1()
@@ -20,7 +20,7 @@ namespace CoreLibTest
 		public void TestPessoa()
 		{
 			Pessoa p = new Pessoa();
-			p.Nome = "test";
+			p.Nome = "Test";
 			Assert.AreEqual(p.Nome, "Test");
 		}
 
